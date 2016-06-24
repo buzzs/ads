@@ -1,0 +1,1 @@
+document.write('<a href="http://show.earnbuzz.in/click.php?ses=ccc5eea88dad71e2987c4767d1a51ccf"><img src="http://earnbuzz.co/banner.php" alt="Click Here.."/></br>Click Here To Download...</a><br/>');
